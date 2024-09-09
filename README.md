@@ -27,12 +27,7 @@ Sinta-se à vontade! É tudo bem simples e divertido.
 * **JavaScript:** O arquivo `app.js` contém a lógica da aplicação, onde a mágica acontece.
 * **JSON:** No `dados.js` estão todas as informações sobre as criaturas marinhas.
 
-**Dica:** Se você quiser adicionar mais criaturas marinhas, é só editar o arquivo `dados.js`.
-
 **Vamos juntos explorar as maravilhas do oceano!** 
 
 **#vidaMarinha #programação #javascript #html #css #openSource**
 
-**Observação:** Adapte este README.md para incluir mais detalhes sobre o seu projeto, como informações sobre as fontes dos dados, tecnologias adicionais utilizadas, ou qualquer outra informação relevante. 
-
-**Gostou? Quer aprender mais sobre programação? Me manda um alô!** 
