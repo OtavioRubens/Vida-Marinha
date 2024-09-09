@@ -1,4 +1,4 @@
-## **README.md Descontraído para o seu Projeto de Vida Marinha**
+## **Imersão Dev com Google Gemini**
 
 ###  **Mergulhando no Mundo da Vida Marinha (e do Código)!**
 
